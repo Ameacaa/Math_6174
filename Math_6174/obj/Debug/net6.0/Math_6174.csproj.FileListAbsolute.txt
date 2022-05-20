@@ -1,0 +1,15 @@
+C:\Users\Ameaça\Documents\.Projects\Programs\C#\Math_6174\Math_6174\bin\Debug\net6.0\Math_6174.exe
+C:\Users\Ameaça\Documents\.Projects\Programs\C#\Math_6174\Math_6174\bin\Debug\net6.0\Math_6174.deps.json
+C:\Users\Ameaça\Documents\.Projects\Programs\C#\Math_6174\Math_6174\bin\Debug\net6.0\Math_6174.runtimeconfig.json
+C:\Users\Ameaça\Documents\.Projects\Programs\C#\Math_6174\Math_6174\bin\Debug\net6.0\Math_6174.dll
+C:\Users\Ameaça\Documents\.Projects\Programs\C#\Math_6174\Math_6174\bin\Debug\net6.0\Math_6174.pdb
+C:\Users\Ameaça\Documents\.Projects\Programs\C#\Math_6174\Math_6174\obj\Debug\net6.0\Math_6174.csproj.AssemblyReference.cache
+C:\Users\Ameaça\Documents\.Projects\Programs\C#\Math_6174\Math_6174\obj\Debug\net6.0\Math_6174.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ameaça\Documents\.Projects\Programs\C#\Math_6174\Math_6174\obj\Debug\net6.0\Math_6174.AssemblyInfoInputs.cache
+C:\Users\Ameaça\Documents\.Projects\Programs\C#\Math_6174\Math_6174\obj\Debug\net6.0\Math_6174.AssemblyInfo.cs
+C:\Users\Ameaça\Documents\.Projects\Programs\C#\Math_6174\Math_6174\obj\Debug\net6.0\Math_6174.csproj.CoreCompileInputs.cache
+C:\Users\Ameaça\Documents\.Projects\Programs\C#\Math_6174\Math_6174\obj\Debug\net6.0\Math_6174.dll
+C:\Users\Ameaça\Documents\.Projects\Programs\C#\Math_6174\Math_6174\obj\Debug\net6.0\refint\Math_6174.dll
+C:\Users\Ameaça\Documents\.Projects\Programs\C#\Math_6174\Math_6174\obj\Debug\net6.0\Math_6174.pdb
+C:\Users\Ameaça\Documents\.Projects\Programs\C#\Math_6174\Math_6174\obj\Debug\net6.0\Math_6174.genruntimeconfig.cache
+C:\Users\Ameaça\Documents\.Projects\Programs\C#\Math_6174\Math_6174\obj\Debug\net6.0\ref\Math_6174.dll
